@@ -9,7 +9,10 @@ public class Attribution {
     /**
      * Default constructor
      */
-    public Attribution() {
+    public Attribution() {      
+        
+        
+        
     }
 
 
